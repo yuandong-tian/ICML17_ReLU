@@ -3,9 +3,10 @@
 Relevant paper:  
 ==================
 
-An Analytical Formula of Population Gradient for two-layered ReLU network and its Applications in Convergence and Critical Point Analysis
-Yuandong Tian
-ICML, 2017
+An Analytical Formula of Population Gradient for two-layered ReLU network and its Applications in Convergence and Critical Point Analysis  
+Yuandong Tian  
+ICML, 2017  
+
 [link](https://arxiv.org/abs/1703.00560)
 
 Usage    
